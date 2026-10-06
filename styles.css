@@ -8,17 +8,17 @@
 ::selection{background:#9bcfff;color:#094183}
 header{background:#094183;color:#f3f8fa;border-color:#263b4c}
 .brand i,nav a:hover{color:#9bcfff}.nav-contact{border-color:#66818c}
-.hero{max-width:none;background:radial-gradient(ellipse at 89% 24%,rgba(32,113,193,.25),transparent 52%),linear-gradient(120deg,#094183 0%,#082d5c 62%,#1269b0 100%);color:#f5f9fb;padding-left:max(6%,calc((100vw - 1400px)/2));padding-right:max(6%,calc((100vw - 1400px)/2))}
+.hero{max-width:none;background:#094183;color:#f5f9fb;padding-left:max(6%,calc((100vw - 1400px)/2));padding-right:max(6%,calc((100vw - 1400px)/2))}
 .hero .eyebrow,h1 em{color:#9bcfff}.dot{background:#9bcfff}.hero-intro{color:#bccbd5}
-.hero .button{background:linear-gradient(110deg,#9bcfff,#62b5ed);color:#094183;font-weight:700}.hero .button:hover{background:#cce7ff}.hero .text-link{border-color:#78969f;color:#e1edf2}
-.research-note{background:linear-gradient(145deg,#175fa5 0%,#0d4582 50%,#082e60 100%);border:1px solid #456671;box-shadow:0 20px 60px #07131d33}
+.hero .button{background:#ffffff;color:#094183;font-weight:700}.hero .button:hover{background:#cce7ff}.hero .text-link{border-color:#78969f;color:#e1edf2}
+.research-note{background:#072b55;border:1px solid #456671;box-shadow:0 20px 60px #07131d33}
 .note-number{color:#9bcfff}.research-note p,.note-bottom{color:#c2d9df}.note-bottom{border-color:#42616c}.hero-foot{border-color:#345060;color:#b0c6d0}
-.section h2 em{color:#094183}.themes article{background:linear-gradient(145deg,#ffffff,#f0f8f7);border-color:#d8e8e5}.theme-number{color:#1269b0}.tag{color:#094183;background:#edf5fc;border-color:#c9def2}
-.publications-section{background:linear-gradient(135deg,#f1f7f9,#edf4fc)}.filters button{border-color:#bdced5}.filters button.selected{background:#183044;border-color:#183044}.search input{background:#fff;border-color:#bdced5}.paper{border-color:#d0dfe3}.paper-meta{color:#47746e}.paper-status{border-color:#aacfc4;background:#e5f0fc;color:#094183}.paper-status.review{background:#fff3dd;color:#705624;border-color:#dcc69d}
-.service-grid article{background:linear-gradient(130deg,#eef7f8,#e7f0fb)}.about-section{background:linear-gradient(135deg,#f4f8fb,#edf4fc)}.education-card{background:#ffffffa6;border-color:#cbdde3}.education-card hr{border-color:#cbdde3}.skills span{background:#fff;border-color:#c7dce0}
-.contact-section{background:radial-gradient(ellipse at 95% 20%,#1765af66,transparent 55%),linear-gradient(115deg,#094183,#14313e);color:#f5f9fb}.contact-section .eyebrow,.contact-section em{color:#9bcfff}.contact-section>p:not(.eyebrow){color:#bed2dc}.contact-section .text-link{color:#d8eaff;border-color:#6d949a}.contact-email{border-color:#6d949a}.copy-button{color:#d8eaff;border-color:#63868d}.menu{color:#e4f3f7;border-color:#54717e}.skip{color:#183044}
+.section h2 em{color:#094183}.themes article{background:#ffffff;border-color:#d8e8e5}.theme-number{color:#1269b0}.tag{color:#094183;background:#edf5fc;border-color:#c9def2}
+.publications-section{background:#edf4fc}.filters button{border-color:#bdced5}.filters button.selected{background:#183044;border-color:#183044}.search input{background:#fff;border-color:#bdced5}.paper{border-color:#d0dfe3}.paper-meta{color:#47746e}.paper-status{border-color:#aacfc4;background:#e5f0fc;color:#094183}.paper-status.review{background:#fff3dd;color:#705624;border-color:#dcc69d}
+.service-grid article{background:#e7f0fb}.about-section{background:#edf4fc}.education-card{background:#ffffffa6;border-color:#cbdde3}.education-card hr{border-color:#cbdde3}.skills span{background:#fff;border-color:#c7dce0}
+.contact-section{background:#094183;color:#f5f9fb}.contact-section .eyebrow,.contact-section em{color:#9bcfff}.contact-section>p:not(.eyebrow){color:#bed2dc}.contact-section .text-link{color:#d8eaff;border-color:#6d949a}.contact-email{border-color:#6d949a}.copy-button{color:#d8eaff;border-color:#63868d}.menu{color:#e4f3f7;border-color:#54717e}.skip{color:#183044}
 @media(max-width:760px){nav{background:#094183;border-color:#345060}.hero{padding-left:6%;padding-right:6%}}
 @media print{.hero,.contact-section{background:white;color:black}.hero-intro,.hero .eyebrow,h1 em,.research-note p,.research-note em,.note-bottom{color:black}.research-note{background:white;box-shadow:none}}
 
 
-header{background:#072b55}.hero .button{background:linear-gradient(110deg,#ffffff,#d4eaff);color:#094183}.hero .eyebrow,h1 em,.research-note em,.contact-section em{color:#a6d7ff}
+header{background:#072b55}.hero .button{background:#ffffff;color:#094183}.hero .eyebrow,h1 em,.research-note em,.contact-section em{color:#a6d7ff}
