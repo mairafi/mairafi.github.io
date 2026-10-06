@@ -22,3 +22,6 @@ header{background:#094183;color:#f3f8fa;border-color:#263b4c}
 
 
 header{background:#072b55}.hero .button{background:#ffffff;color:#094183}.hero .eyebrow,h1 em,.research-note em,.contact-section em{color:#a6d7ff}
+
+/* Palette sampled from the supplied University of Melbourne screenshot. */
+header,nav{background:#000f46}.hero,.contact-section{background:#000b34}.research-note{background:#00354c;box-shadow:none;border-color:#758896}.hero .eyebrow,h1 em,.research-note em,.contact-section em,.contact-section .eyebrow{color:#ffffff}.hero .button{background:#ffffff;color:#000b34}.hero .button:hover{background:#f4f4f4}.dot{background:#a9bfa5}.brand i{color:#ffffff}.hero-intro,.research-note p,.contact-section>p:not(.eyebrow){color:#ffffff}.note-number,.hero-foot,.note-bottom{color:#c9cdd6}.publications-section,.about-section{background:#f4f4f4}.service-grid article{background:#f4f4f4}.section h2 em,.theme-number,.tag{color:#00354c}.hero-foot,.note-bottom{border-color:#758896}@media print{.hero,.contact-section,.research-note{background:white;color:black}.hero-intro,.hero .eyebrow,h1 em,.research-note p,.research-note em,.note-bottom{color:black}}
